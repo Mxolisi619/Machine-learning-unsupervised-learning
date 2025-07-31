@@ -61,5 +61,5 @@ The goal is to uncover patterns or regional groupings that can inform internatio
 
 ##  Author
 
-This project was completed by Mxolisi Dlamini as part of the data science bootcamp at HyperionDev. 
+This project was completed by Mxolisi Collen Dlamini as part of the data science bootcamp at HyperionDev. 
 
